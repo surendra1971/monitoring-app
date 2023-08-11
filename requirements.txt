@@ -1,7 +1,7 @@
 Flask==2.0.3
 MarkupSafe==2.0.1
 Werkzeug==2.0.3
-itsdangerous==2.1.2
+itsdangerous==2.0.1
 psutil==5.8.0
 plotly==5.5.0
 tenacity==8.0.1
