@@ -39,5 +39,10 @@ In this project we are usinh psutil is cpu monitoring application that which sho
 
 we are that application on the flask is a framework that 
 
+aws configure
+aws iam list-users
+docker --version
+kubectl version 
+
 
 
